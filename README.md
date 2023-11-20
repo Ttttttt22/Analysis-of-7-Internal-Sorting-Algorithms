@@ -414,7 +414,7 @@ void quicksort(Type R[], int left, int right, LL &compare, LL &shift, LL &time)
 
 Qt是一个跨平台的C++图形用户界面应用程序框架。它为应用程序开发者提供建立图形界面所需的所有功能。它是完全面向对象的，很容易扩展，并且允许真正的组件编程。在本程序中使用了Qt做项目的ui界面，具体实现方式不在赘述。
 
-![Alt text](C:\Users\kwt\Desktop\vsCode\sortUI.jpg)
+![Alt text](sortUI.jpg)
 
 - 区域①提供给用户设定测试次数(time)、待排序序列长度(amount)、生成随机数序列的左值(lvalue)和生成随机数序列的右值(rvalue)。
 - 区域②为程序运行按钮(start)和区域①的参数重设按钮(reset)。

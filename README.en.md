@@ -419,7 +419,7 @@ The principle of time-consuming statistics is the same as that of the merge sort
 
 Qt is a cross-platform C++ GUI application framework. It provides application developers with all the functionality they need to build graphical interfaces. It is fully object oriented, easily extensible, and allows true component programming. Qt is used in this application to do the ui interface of the project, the specific implementation will not be repeated.
 
-![Alt text](C:\Users\kwt\Desktop\vsCode\sortUI.jpg)
+![Alt text](sortUI.jpg)
 
 - Area ① provides the user to set the number of tests (time), the length of the sequence to be sorted (amount), the left value of the generated random number sequence (lvalue) and the right value of the generated random number sequence (rvalue).
 - Area ② is the button to run the programme (start) and the parameter reset button (reset) in area ①.
