@@ -443,11 +443,11 @@ Before we begin let's look at the textbook analysis of the strengths and weaknes
 
 ### 4.1 Operational results
 
-![1](F:\截图\1.jpg)
+![3](3.jpg)
 
-![2](F:\截图\2.jpg)
+![1](1.jpg)
 
-![3](F:\截图\3.jpg)
+![2](2.jpg)
 
 ### 4.2 Test conclusions
 
