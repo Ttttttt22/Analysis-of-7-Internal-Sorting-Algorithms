@@ -438,11 +438,11 @@ Qt是一个跨平台的C++图形用户界面应用程序框架。它为应用程
 
 ### 4.1  运行结果
 
-![1](F:\截图\1.jpg)
+![3](D:\学习资料\gitCode\sort-test\3.jpg)
 
-![2](F:\截图\2.jpg)
+![1](D:\学习资料\gitCode\sort-test\1.jpg)
 
-![3](F:\截图\3.jpg)
+![2](D:\学习资料\gitCode\sort-test\2.jpg)
 
 ### 4.2 测试结论
 
